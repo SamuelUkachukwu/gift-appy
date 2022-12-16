@@ -1,0 +1,25 @@
+/* Index */ 
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card button {
+    padding: 5px;
+    margin: 4px;
+    text-decoration: none;;
+}
+
+.card button a {
+    text-decoration: none;
+    color: black;
+}
