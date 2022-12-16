@@ -1,11 +1,4 @@
 /* Index */ 
-.container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
 .card {
     display: flex;
     flex-direction: column;
@@ -14,9 +7,8 @@
 }
 
 .card button {
-    padding: 5px;
     margin: 4px;
-    text-decoration: none;;
+    text-decoration: none;
 }
 
 .card button a {
